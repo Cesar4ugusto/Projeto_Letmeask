@@ -4,6 +4,12 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Cesar4ugusto)](https://github.com/Cesar4ugusto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/c%C3%A9sar-augusto-aa8143160//)](https://www.linkedin.com/in/c%C3%A9sar-augusto-aa8143160//)
+![GitHub followers](https://img.shields.io/github/followers/Cesar4ugusto?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Cesar4ugusto/Projeto_Letmeask?style=social)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Cesar4ugusto/Projeto_Letmeask?style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/Cesar4ugusto/Projeto_Letmeask?style=social)
+[! [visual_studio_code] (https://github.com/aleen42/badges/blob/master/src/visual_studio_code.svg)](https://badges.aleen42.com/src/visual_studio_code.svg)
+
 
 ## Sobre mim
 
