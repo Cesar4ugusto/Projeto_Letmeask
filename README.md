@@ -8,7 +8,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Cesar4ugusto/Projeto_Letmeask?style=social)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Cesar4ugusto/Projeto_Letmeask?style=social)
 ![GitHub language count](https://img.shields.io/github/languages/count/Cesar4ugusto/Projeto_Letmeask?style=social)
-[! [visual_studio_code] (https://github.com/aleen42/badges/blob/master/src/visual_studio_code.svg)](https://badges.aleen42.com/src/visual_studio_code.svg)
 
 
 ## Sobre mim
